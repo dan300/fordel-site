@@ -1,54 +1,23 @@
-# Welcome to Jekyll!
-#
-
-# Site settings
+---
 title: Fordel
-description: Discerned. Delivered. Marketing that drives change.
-owner: Fordel # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: dan@fordel.agency
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fordel.siteleaf.net" # the base hostname & protocol for your site
-social:
-  twitter: https://twitter.com/dansallai
-  github: https://github.com/dan300
-  linkedin-square: https://www.linkedin.com/in/sallaidani
-  email: hello@fordel.agency
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
-
-# Build settings
-markdown: kramdown
-#sass:
-#  style: compressed
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
