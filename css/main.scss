@@ -51,6 +51,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	#banner h2 {
 		font-family: Pacifico;
+		text-transform: none!important;
 	}
 
 	body, input, select, textarea {
