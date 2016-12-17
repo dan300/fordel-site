@@ -1,7 +1,6 @@
 ---
 title: Fordel
 timezone: UTC
-description: Discerned. Delivered. Marketing that drives change.
 collections:
   posts:
     title: Posts
@@ -21,4 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
+description: Discerned. Delivered. Marketing that drives change.
 permalink: pretty
