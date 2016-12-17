@@ -3,20 +3,17 @@
 
 # Site settings
 title: Fordel
-description: |
-  Discerned. Delivered. Marketing that drives change
+description: Discerned. Delivered. Marketing that drives change.
 owner: Fordel # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: dan@fordel.agency
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fordel.siteleaf.net" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  twitter: https://twitter.com/dansallai
+  github: https://github.com/dan300
+  linkedin-square: https://www.linkedin.com/in/sallaidani
+  email: hello@fordel.agency
   #flickr:
   #instagram:
   #youtube-square:
