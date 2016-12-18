@@ -6,4 +6,8 @@ excerpt: this is a test excerpt
 ---
 
 
-test danika
+# Written in
+
+Design: HTML5 UP
+
+Built with [Jekyll](http://jekyllrb.com/)
