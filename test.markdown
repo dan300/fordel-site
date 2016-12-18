@@ -5,5 +5,4 @@ hero image: "/uploads/DeathtoStock_QuietFrontier-11.jpg"
 excerpt: this is a test excerpt
 ---
 
-
 test danika
