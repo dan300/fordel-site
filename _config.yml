@@ -4,6 +4,12 @@ timezone: UTC
 url: "http://fordel.agency"
 baseurl: "" # the subpath of your site, e.g. /blog
 email: hello@fordel.agency
+description: Discerned. Delivered. Marketing that drives change.
+permalink: pretty
+twitter: https://twitter.com/dansallai
+linkedin: https://www.linkedin.com/company/fordel
+blog: https://blog.fordel.agency
+markdown: kramdown
 collections:
   posts:
     title: Posts
@@ -23,11 +29,3 @@ defaults:
     type: pages
   values:
     layout: page
-description: Discerned. Delivered. Marketing that drives change.
-permalink: pretty
-twitter: https://twitter.com/dansallai
-github: https://github.com/<username>
-linkedin-square: https://linkedin.com/in/<username>
-facebook-official: https://facebook.com/<username>
-google-plus-square: https://plus.google.com/u/0/+<username>
-markdown: kramdown
