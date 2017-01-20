@@ -29,3 +29,5 @@ defaults:
     type: pages
   values:
     layout: page
+gems:
+  - jekyll-redirect-from

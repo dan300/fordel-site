@@ -1,3 +1,6 @@
+# Dan's custom ignores
+robots.txt
+
 # Jekyll ignores
 .sass-cache/
 _site
