@@ -1,5 +1,5 @@
 # Dan's custom ignores
-# robots.txt
+robots.txt
 
 # Jekyll ignores
 .sass-cache/
