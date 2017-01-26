@@ -12,6 +12,7 @@
     <!--[if lte IE 8]><script src="{{ "/js/ie/html5shiv.js" | prepend: site.baseurl }}"></script><![endif]-->
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" itemprop="url">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
+    <link rel="stylesheet" href="{{ "/css/custom.css" | prepend: site.baseurl }}" />
     <!--[if lte IE 8]><link rel="stylesheet" href="{{ "/css/ie8.css" | prepend: site.baseurl }}" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="{{ "/css/ie9.css" | prepend: site.baseurl }}" /><![endif]-->
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
@@ -20,6 +21,7 @@
     <meta property="og:url" content="{{}}" />
     <meta property="og:site_name" content="Fordel Agency" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="{{page.ogImage}}"/>
+    <meta property="og:image" content="{{site.url}}/{{page.ogImage}}"/>
     <link rel="icon" type="image/png" href="http://fordel.agency/images/favicon.png">
+    <meta name="robots" content="{{page.robots}}"
   </head>

@@ -1,0 +1,14 @@
+/* various fordel specific customizations and tweaks */
+
+.circle {
+	border-radius: 5%!important;
+}
+
+.contactavatar {
+  width: 190px!important;
+}
+
+.smaller {
+  font-size:75%;
+  margin-bottom:10px;
+}
