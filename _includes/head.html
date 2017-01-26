@@ -23,5 +23,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:image" content="{{site.url}}/{{page.ogImage}}"/>
     <link rel="icon" type="image/png" href="http://fordel.agency/images/favicon.png">
-    <meta name="robots" content="{{page.robots}}"
+    {% if page.robots %}
+    <meta name="robots" content="{{page.robots}}">
+    {% endif %}
   </head>
