@@ -1,2 +1,0 @@
-# Discerned, delivered
-We live and breathe digital, yet every day we marvel at what can be done online. We find each aspect of it fascinating. We go to work each day to create value through stuff we love. We listen humbly and act swiftly. We are not afraid to say “I don’t know”. And we are not lazy to go over and above to find solutions. We are not gurus or magicians. To sustainable success there are no shortcuts or magic tricks. But when there's honesty, experience, hard work and some data, magical things can happen. That’s what we are here for.
