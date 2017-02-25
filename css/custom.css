@@ -23,3 +23,26 @@
 #mc_embed_signup input {
 	margin-top:30px
 }
+
+#wedding-tos a {
+	border-bottom: 0px;
+}
+
+#wedding-tos li:hover {
+	background-color:rgb(242, 242, 242);
+}
+
+
+.totop {
+	color:#2e3842;
+	border-bottom: 0px;
+	padding-left:10px;
+	opacity: 0.25;
+	font-size: 130%
+}
+
+.bgtheme-wedding {
+  	background: linear-gradient( rgba(46, 56, 66, 0.92), rgba(46, 56, 66, 1)), url('../images/wedding-marketing.jpg');
+		background-size:cover;
+
+  }
