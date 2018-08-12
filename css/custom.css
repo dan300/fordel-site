@@ -55,11 +55,11 @@
 
 .bgtheme-clientstory-tickeron {
   	background: linear-gradient( rgba(46, 56, 66, 0.75), rgba(46, 56, 66, 1)), url('../../images/tickeron-case-study-background.jpg');
-		/* background: url('../../images/solutionsurfers-client-case-study-fordel-2.jpg'); */
-		/* background: url('https://tickeron.com/Img/Marketing/design/images/home-slide1.jpg'); */
-
-
   }
+
+.bgtheme-clientstory-solutionsurfers {
+  	background: linear-gradient( rgba(46, 56, 66, 0.75), rgba(46, 56, 66, 1)), url('../../images/case-study-image-solutionsurfers.jpg');
+	  }
 
 /* Contacts page related customizations */
 
